@@ -1,1 +1,3 @@
 # CustomerQueryReplyAssistant
+
+Projetc requirements:
